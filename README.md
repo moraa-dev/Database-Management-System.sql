@@ -142,3 +142,7 @@ CREATE TABLE IF NOT EXISTS `Enrollments` (
     ON DELETE CASCADE -- If a course is deleted, enrollment records for that course are also deleted.
     ON UPDATE CASCADE
 ) ENGINE = InnoDB COMMENT = 'Stores student enrollment records for courses (Many-to-Many relationship linking Students and Courses).';
+
+
+--Link: https://github.com/moraa-dev/Students_Records_Database_Management_System.sql/blob/main/studentRecordsDB_ERD_Week8.png
+
