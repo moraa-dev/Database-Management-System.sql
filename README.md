@@ -1,4 +1,9 @@
-# Database-Management-System.sql
+# Students_Database_Management_System.sql
+ -- Topic: Student Records Database Management System
+-- Use Case: Student Records
+-- Database System: MySQL
+
+
 
 Question 1: Build a Complete Database Management System
 Objective:
